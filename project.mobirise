@@ -1,0 +1,73 @@
+{
+  "settings": {
+    "name": "وب سایت امیر جعفری",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.10.5",
+    "siteFonts": [],
+    "uniqCompNum": 3,
+    "versionPublish": "4.10.5",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/20190704-034821-0000-128x120.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "siteUrl": "undefined"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "text": "<p>وب سایت درحال به روز رسانی است برای کسب اطلاعات در مورد بازگشایی سایت به ادمین مراجعه کنید\n</p><p>\n<span style=\"font-size: 1.25rem;\">از صبر شکیبایی شما دوست عزیز سپاس کذاریم&nbsp;</span><span style=\"font-size: 1.25rem;\"></span></p><p>شماره تماس\n</p><p>0938 343 93 41\n</p><p>&nbsp;+1 (501) 558 3799 \n</p><p>ارتبط بیشتر\n</p><p>amirjafari4246@gmail.com\n</p><p><a href=\"https://t.me/z4car2018\" target=\"_blank\">کانال تلگرام\n</a></p><p><i><a href=\"https://t.me/amirjafariadmin1\" target=\"_blank\">&nbsp;ارتباط با ادمین1\n</a></i></p><p><i><a href=\"https://t.me/amirjafariadmin3\" target=\"_blank\">ارتیاط با ادمین 2\n</a></i></p><p><i><a href=\"https://t.me/amirjafariadmin1\" target=\"_blank\">ازتباط با ادمین3\n</a></i></p><p><a href=\"https://t.me/amirjafariadmin1\" target=\"_blank\">\n</a></p><p>&nbsp;</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "کلیه حقوق مادی و معنوی سایت متعلق به امیرجعفری است",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_styles": {
+            "P": {
+              "color": "#f1c050",
+              "text-align": "center",
+              "font-size": "24px"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
